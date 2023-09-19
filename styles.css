@@ -148,15 +148,6 @@ body {
 			height: 100%;
 			z-index: 1;
 
-			.surprise {
-				position: absolute;
-				top: 140px;
-				right: 218px;
-				background: red;
-				height: 100px;
-				width: 100px;
-			}
-
 			.mountain-big {
 				position: absolute;
 				bottom: 0;
